@@ -1,2 +1,2 @@
-# Ke-An-Wang
+# Ke-An Wang
 midterm project personal website
